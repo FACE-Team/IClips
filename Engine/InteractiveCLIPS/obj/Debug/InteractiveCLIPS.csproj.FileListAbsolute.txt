@@ -1,0 +1,48 @@
+C:\Users\FACE\Documents\Visual Studio 2010\Projects\_SVN\Face2.0\src\CognitiveSystem\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\iClips.baml
+C:\Users\FACE\Documents\Visual Studio 2010\Projects\_SVN\Face2.0\src\CognitiveSystem\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\iClips.g.cs
+C:\Users\FACE\Documents\Visual Studio 2010\Projects\_SVN\Face2.0\src\CognitiveSystem\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\InteractiveCLIPS_MarkupCompile.cache
+C:\Users\FACE\Documents\Visual Studio 2010\Projects\_SVN\Face2.0\src\bin\Debug\InteractiveCLIPS.dll
+C:\Users\FACE\Documents\Visual Studio 2010\Projects\_SVN\Face2.0\src\bin\Debug\InteractiveCLIPS.pdb
+C:\Users\FACE\Documents\Visual Studio 2010\Projects\_SVN\Face2.0\src\CognitiveSystem\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\ClipsEditor.baml
+C:\Users\FACE\Documents\Visual Studio 2010\Projects\_SVN\Face2.0\src\CognitiveSystem\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\ClipsEditor.g.cs
+C:\Users\FACE\Documents\Visual Studio 2010\Projects\_SVN\Face2.0\src\CognitiveSystem\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\InteractiveCLIPS.g.resources
+C:\Users\FACE\Documents\Visual Studio 2010\Projects\_SVN\Face2.0\src\CognitiveSystem\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\InteractiveCLIPS.Properties.Resources.resources
+C:\Users\FACE\Documents\Visual Studio 2010\Projects\_SVN\Face2.0\src\CognitiveSystem\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\InteractiveCLIPS.dll
+C:\Users\FACE\Documents\Visual Studio 2010\Projects\_SVN\Face2.0\src\CognitiveSystem\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\InteractiveCLIPS.pdb
+C:\Users\FACE\Documents\Visual Studio 2010\Projects\_SVN\Face2.0\src\CognitiveSystem\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\InteractiveCLIPS.csproj.GenerateResource.Cache
+D:\GIT_Repository\bin\Debug\InteractiveCLIPS.dll
+D:\GIT_Repository\bin\Debug\InteractiveCLIPS.pdb
+D:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\InteractiveCLIPS.csprojResolveAssemblyReference.cache
+D:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\ClipsEditor.baml
+D:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\iClips.baml
+D:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\ClipsEditor.g.cs
+D:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\iClips.g.cs
+D:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\InteractiveCLIPS_MarkupCompile.cache
+D:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\InteractiveCLIPS.g.resources
+D:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\InteractiveCLIPS.Properties.Resources.resources
+D:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\InteractiveCLIPS.csproj.GenerateResource.Cache
+D:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\InteractiveCLIPS.dll
+D:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\InteractiveCLIPS.pdb
+E:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\InteractiveCLIPS.csprojResolveAssemblyReference.cache
+E:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\ClipsEditor.baml
+E:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\iClips.baml
+E:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\ClipsEditor.g.cs
+E:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\iClips.g.cs
+E:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\InteractiveCLIPS_MarkupCompile.cache
+E:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\InteractiveCLIPS.g.resources
+E:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\InteractiveCLIPS.Properties.Resources.resources
+E:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\InteractiveCLIPS.csproj.GenerateResource.Cache
+E:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\InteractiveCLIPS.dll
+E:\GIT_Repository\bin\Debug\InteractiveCLIPS.dll
+E:\GIT_Repository\bin\Debug\InteractiveCLIPS.pdb
+E:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\InteractiveCLIPS.pdb
+E:\GitHub\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\InteractiveCLIPS.csprojResolveAssemblyReference.cache
+E:\GitHub\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\ClipsEditor.baml
+E:\GitHub\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\iClips.baml
+E:\GitHub\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\ClipsEditor.g.cs
+E:\GitHub\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\iClips.g.cs
+E:\GitHub\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\InteractiveCLIPS_MarkupCompile.cache
+E:\GitHub\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\InteractiveCLIPS.g.resources
+E:\GitHub\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\InteractiveCLIPS.Properties.Resources.resources
+E:\GitHub\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\InteractiveCLIPS.csproj.GenerateResource.Cache
+E:\GitHub\InteractiveCLIPS\InteractiveCLIPS\obj\Debug\InteractiveCLIPS.dll

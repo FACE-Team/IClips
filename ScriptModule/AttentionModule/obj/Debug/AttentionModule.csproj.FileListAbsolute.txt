@@ -1,0 +1,21 @@
+C:\Users\FACE\Documents\Visual Studio 2010\Projects\_SVN\Face2.0\src\bin\Debug\Modules\AttentionModule\AttentionModule.dll
+C:\Users\FACE\Documents\Visual Studio 2010\Projects\_SVN\Face2.0\src\bin\Debug\Modules\AttentionModule\AttentionModule.pdb
+C:\Users\FACE\Documents\Visual Studio 2010\Projects\_SVN\Face2.0\src\CognitiveSystem\InteractiveCLIPS\AttentionModule\obj\Debug\AttentionModule.dll
+C:\Users\FACE\Documents\Visual Studio 2010\Projects\_SVN\Face2.0\src\CognitiveSystem\InteractiveCLIPS\AttentionModule\obj\Debug\AttentionModule.pdb
+C:\Users\FACE\Documents\Visual Studio 2010\Projects\_SVN\Face2.0\src\CognitiveSystem\InteractiveCLIPS\AttentionModule\obj\Debug\AttentionModule.csprojResolveAssemblyReference.cache
+D:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\AttentionModule\obj\Debug\AttentionModule.csprojResolveAssemblyReference.cache
+D:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\AttentionModule\obj\Debug\AttentionModule.dll
+D:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\AttentionModule\obj\Debug\AttentionModule.pdb
+D:\GIT_Repository\bin\Debug\Modules\AttentionModule\AttentionModule.dll
+D:\GIT_Repository\bin\Debug\Modules\AttentionModule\AttentionModule.pdb
+D:\GIT_Repository\bin\Debug\Modules\AttentionModule\init.clp
+E:\GIT_Repository\bin\Debug\Modules\AttentionModule\init.clp
+E:\GIT_Repository\bin\Debug\Modules\AttentionModule\AttentionModule.dll
+E:\GIT_Repository\bin\Debug\Modules\AttentionModule\AttentionModule.pdb
+E:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\AttentionModule\obj\Debug\AttentionModule.csprojResolveAssemblyReference.cache
+E:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\AttentionModule\obj\Debug\AttentionModule.dll
+E:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\AttentionModule\obj\Debug\AttentionModule.pdb
+E:\GitHub\InteractiveCLIPS\AttentionModule\obj\Debug\AttentionModule.csprojFakesResolveAssemblyReference.cache
+E:\GitHub\InteractiveCLIPS\AttentionModule\obj\Debug\AttentionModule.csprojResolveAssemblyReference.cache
+E:\GitHub\InteractiveCLIPS\AttentionModule\obj\Debug\AttentionModule.dll
+E:\GitHub\InteractiveCLIPS\AttentionModule\obj\Debug\AttentionModule.pdb

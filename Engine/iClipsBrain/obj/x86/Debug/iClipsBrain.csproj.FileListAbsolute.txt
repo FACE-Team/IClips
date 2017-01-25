@@ -1,0 +1,48 @@
+C:\Users\FACE\Documents\Visual Studio 2010\Projects\_SVN\Face2.0\src\CognitiveSystem\InteractiveCLIPS\iClipsBrain\obj\x86\Debug\App.g.cs
+C:\Users\FACE\Documents\Visual Studio 2010\Projects\_SVN\Face2.0\src\CognitiveSystem\InteractiveCLIPS\iClipsBrain\obj\x86\Debug\iClipsBrain_MarkupCompile.cache
+C:\Users\FACE\Documents\Visual Studio 2010\Projects\_SVN\Face2.0\src\bin\Debug\iClipsBrain.exe
+C:\Users\FACE\Documents\Visual Studio 2010\Projects\_SVN\Face2.0\src\bin\Debug\iClipsBrain.pdb
+C:\Users\FACE\Documents\Visual Studio 2010\Projects\_SVN\Face2.0\src\CognitiveSystem\InteractiveCLIPS\iClipsBrain\obj\x86\Debug\MainWindow.baml
+C:\Users\FACE\Documents\Visual Studio 2010\Projects\_SVN\Face2.0\src\CognitiveSystem\InteractiveCLIPS\iClipsBrain\obj\x86\Debug\MainWindow.g.cs
+C:\Users\FACE\Documents\Visual Studio 2010\Projects\_SVN\Face2.0\src\CognitiveSystem\InteractiveCLIPS\iClipsBrain\obj\x86\Debug\iClipsBrain.g.resources
+C:\Users\FACE\Documents\Visual Studio 2010\Projects\_SVN\Face2.0\src\CognitiveSystem\InteractiveCLIPS\iClipsBrain\obj\x86\Debug\iClipsBrain.Properties.Resources.resources
+C:\Users\FACE\Documents\Visual Studio 2010\Projects\_SVN\Face2.0\src\CognitiveSystem\InteractiveCLIPS\iClipsBrain\obj\x86\Debug\iClipsBrain.exe
+C:\Users\FACE\Documents\Visual Studio 2010\Projects\_SVN\Face2.0\src\CognitiveSystem\InteractiveCLIPS\iClipsBrain\obj\x86\Debug\iClipsBrain.pdb
+C:\Users\FACE\Documents\Visual Studio 2010\Projects\_SVN\Face2.0\src\CognitiveSystem\InteractiveCLIPS\iClipsBrain\obj\x86\Debug\iClipsBrain.csprojResolveAssemblyReference.cache
+C:\Users\FACE\Documents\Visual Studio 2010\Projects\_SVN\Face2.0\src\CognitiveSystem\InteractiveCLIPS\iClipsBrain\obj\x86\Debug\iClipsBrain.csproj.GenerateResource.Cache
+D:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\iClipsBrain\obj\x86\Debug\iClipsBrain.exe
+D:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\iClipsBrain\obj\x86\Debug\iClipsBrain.pdb
+D:\GIT_Repository\bin\Debug\iClipsBrain.exe
+D:\GIT_Repository\bin\Debug\iClipsBrain.pdb
+D:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\iClipsBrain\obj\x86\Debug\iClipsBrain.csprojResolveAssemblyReference.cache
+D:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\iClipsBrain\obj\x86\Debug\MainWindow.baml
+D:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\iClipsBrain\obj\x86\Debug\MainWindow.g.cs
+D:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\iClipsBrain\obj\x86\Debug\App.g.cs
+D:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\iClipsBrain\obj\x86\Debug\iClipsBrain_MarkupCompile.cache
+D:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\iClipsBrain\obj\x86\Debug\iClipsBrain.g.resources
+D:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\iClipsBrain\obj\x86\Debug\iClipsBrain.Properties.Resources.resources
+D:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\iClipsBrain\obj\x86\Debug\iClipsBrain.csproj.GenerateResource.Cache
+D:\GIT_Repository\bin\Debug\iClipsBrain.exe.config
+E:\GIT_Repository\bin\Debug\iClipsBrain.exe.config
+E:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\iClipsBrain\obj\x86\Debug\iClipsBrain.exe
+E:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\iClipsBrain\obj\x86\Debug\iClipsBrain.pdb
+E:\GIT_Repository\bin\Debug\iClipsBrain.exe
+E:\GIT_Repository\bin\Debug\iClipsBrain.pdb
+E:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\iClipsBrain\obj\x86\Debug\iClipsBrain.csprojResolveAssemblyReference.cache
+E:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\iClipsBrain\obj\x86\Debug\MainWindow.baml
+E:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\iClipsBrain\obj\x86\Debug\MainWindow.g.cs
+E:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\iClipsBrain\obj\x86\Debug\App.g.cs
+E:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\iClipsBrain\obj\x86\Debug\iClipsBrain_MarkupCompile.cache
+E:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\iClipsBrain\obj\x86\Debug\iClipsBrain.g.resources
+E:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\iClipsBrain\obj\x86\Debug\iClipsBrain.Properties.Resources.resources
+E:\GIT_Repository\CognitiveSystem\InteractiveCLIPS\iClipsBrain\obj\x86\Debug\iClipsBrain.csproj.GenerateResource.Cache
+E:\bin\Debug\iClipsBrain.exe.config
+E:\GitHub\InteractiveCLIPS\iClipsBrain\obj\x86\Debug\iClipsBrain.exe
+E:\GitHub\InteractiveCLIPS\iClipsBrain\obj\x86\Debug\iClipsBrain.pdb
+E:\GitHub\bin\Debug\iClipsBrain.exe.config
+E:\GitHub\InteractiveCLIPS\Engine\iClipsBrain\obj\x86\Debug\iClipsBrain.exe
+E:\GitHub\InteractiveCLIPS\Engine\iClipsBrain\obj\x86\Debug\iClipsBrain.pdb
+E:\GitHub\InteractiveCLIPS\bin\Debug\iClipsBrain.exe.config
+E:\GitHub\IClips\bin\Debug\iClipsBrain.exe.config
+E:\GitHub\IClips\Engine\iClipsBrain\obj\x86\Debug\iClipsBrain.exe
+E:\GitHub\IClips\Engine\iClipsBrain\obj\x86\Debug\iClipsBrain.pdb
